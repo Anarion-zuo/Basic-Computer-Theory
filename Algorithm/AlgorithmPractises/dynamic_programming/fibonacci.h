@@ -1,0 +1,10 @@
+//
+// Created by anarion on 6/12/19.
+//
+
+#ifndef ALGORITHMPRACTISES_FIBONACCI_H
+#define ALGORITHMPRACTISES_FIBONACCI_H
+
+long fib(long n);
+
+#endif //ALGORITHMPRACTISES_FIBONACCI_H
