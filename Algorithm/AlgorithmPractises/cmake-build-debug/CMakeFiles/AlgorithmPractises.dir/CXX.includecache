@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/dynamic_programming/dynamic.h
+cstddef
+-
+vector
+-
+
+/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/dynamic_programming/fibonacci.cpp
+cstddef
+-
+dynamic.h
+/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/dynamic_programming/dynamic.h
+
+/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/dynamic_programming/market.cpp
+limits
+-
+dynamic.h
+/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/dynamic_programming/dynamic.h
+
+/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/dynamic_programming/min_max.cpp
+
+/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/dynamic_programming/rod.cpp
+dynamic.h
+/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/dynamic_programming/dynamic.h
+
+/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/main.cpp
+iostream
+-
+dynamic_programming/dynamic.h
+/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/dynamic_programming/dynamic.h
+

@@ -1,7 +1,7 @@
 //
 // Created by anarion on 6/12/19.
 //
-#include "rod.h"
+#include "dynamic.h"
 
 // input: gain of each length  n <= ls.size()
 long rod(long n, const std::vector<long>& ls, std::vector<long>& store){

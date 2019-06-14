@@ -1,0 +1,14 @@
+%include "io.inc"
+
+.data
+sum DWORD 0
+
+.code
+main PROC
+    MOV eax, 5
+    ADD eax, 6
+    MOV sum, eax
+    
+    INVOKE ExitProcess, 0;
+    
+main ENDP
