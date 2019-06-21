@@ -123,6 +123,87 @@ AlgorithmPractises/fast:
 	$(MAKE) -f CMakeFiles/AlgorithmPractises.dir/build.make CMakeFiles/AlgorithmPractises.dir/build
 .PHONY : AlgorithmPractises/fast
 
+binarytree/BinarySearchTree.o: binarytree/BinarySearchTree.cpp.o
+
+.PHONY : binarytree/BinarySearchTree.o
+
+# target to build an object file
+binarytree/BinarySearchTree.cpp.o:
+	$(MAKE) -f CMakeFiles/AlgorithmPractises.dir/build.make CMakeFiles/AlgorithmPractises.dir/binarytree/BinarySearchTree.cpp.o
+.PHONY : binarytree/BinarySearchTree.cpp.o
+
+binarytree/BinarySearchTree.i: binarytree/BinarySearchTree.cpp.i
+
+.PHONY : binarytree/BinarySearchTree.i
+
+# target to preprocess a source file
+binarytree/BinarySearchTree.cpp.i:
+	$(MAKE) -f CMakeFiles/AlgorithmPractises.dir/build.make CMakeFiles/AlgorithmPractises.dir/binarytree/BinarySearchTree.cpp.i
+.PHONY : binarytree/BinarySearchTree.cpp.i
+
+binarytree/BinarySearchTree.s: binarytree/BinarySearchTree.cpp.s
+
+.PHONY : binarytree/BinarySearchTree.s
+
+# target to generate assembly for a file
+binarytree/BinarySearchTree.cpp.s:
+	$(MAKE) -f CMakeFiles/AlgorithmPractises.dir/build.make CMakeFiles/AlgorithmPractises.dir/binarytree/BinarySearchTree.cpp.s
+.PHONY : binarytree/BinarySearchTree.cpp.s
+
+binarytree/BinaryTree.o: binarytree/BinaryTree.cpp.o
+
+.PHONY : binarytree/BinaryTree.o
+
+# target to build an object file
+binarytree/BinaryTree.cpp.o:
+	$(MAKE) -f CMakeFiles/AlgorithmPractises.dir/build.make CMakeFiles/AlgorithmPractises.dir/binarytree/BinaryTree.cpp.o
+.PHONY : binarytree/BinaryTree.cpp.o
+
+binarytree/BinaryTree.i: binarytree/BinaryTree.cpp.i
+
+.PHONY : binarytree/BinaryTree.i
+
+# target to preprocess a source file
+binarytree/BinaryTree.cpp.i:
+	$(MAKE) -f CMakeFiles/AlgorithmPractises.dir/build.make CMakeFiles/AlgorithmPractises.dir/binarytree/BinaryTree.cpp.i
+.PHONY : binarytree/BinaryTree.cpp.i
+
+binarytree/BinaryTree.s: binarytree/BinaryTree.cpp.s
+
+.PHONY : binarytree/BinaryTree.s
+
+# target to generate assembly for a file
+binarytree/BinaryTree.cpp.s:
+	$(MAKE) -f CMakeFiles/AlgorithmPractises.dir/build.make CMakeFiles/AlgorithmPractises.dir/binarytree/BinaryTree.cpp.s
+.PHONY : binarytree/BinaryTree.cpp.s
+
+binarytree/TreeNode.o: binarytree/TreeNode.cpp.o
+
+.PHONY : binarytree/TreeNode.o
+
+# target to build an object file
+binarytree/TreeNode.cpp.o:
+	$(MAKE) -f CMakeFiles/AlgorithmPractises.dir/build.make CMakeFiles/AlgorithmPractises.dir/binarytree/TreeNode.cpp.o
+.PHONY : binarytree/TreeNode.cpp.o
+
+binarytree/TreeNode.i: binarytree/TreeNode.cpp.i
+
+.PHONY : binarytree/TreeNode.i
+
+# target to preprocess a source file
+binarytree/TreeNode.cpp.i:
+	$(MAKE) -f CMakeFiles/AlgorithmPractises.dir/build.make CMakeFiles/AlgorithmPractises.dir/binarytree/TreeNode.cpp.i
+.PHONY : binarytree/TreeNode.cpp.i
+
+binarytree/TreeNode.s: binarytree/TreeNode.cpp.s
+
+.PHONY : binarytree/TreeNode.s
+
+# target to generate assembly for a file
+binarytree/TreeNode.cpp.s:
+	$(MAKE) -f CMakeFiles/AlgorithmPractises.dir/build.make CMakeFiles/AlgorithmPractises.dir/binarytree/TreeNode.cpp.s
+.PHONY : binarytree/TreeNode.cpp.s
+
 dynamic_programming/LongestIncreasingSubsequence.o: dynamic_programming/LongestIncreasingSubsequence.cpp.o
 
 .PHONY : dynamic_programming/LongestIncreasingSubsequence.o
@@ -285,6 +366,87 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/AlgorithmPractises.dir/build.make CMakeFiles/AlgorithmPractises.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+sort/insertion.o: sort/insertion.cpp.o
+
+.PHONY : sort/insertion.o
+
+# target to build an object file
+sort/insertion.cpp.o:
+	$(MAKE) -f CMakeFiles/AlgorithmPractises.dir/build.make CMakeFiles/AlgorithmPractises.dir/sort/insertion.cpp.o
+.PHONY : sort/insertion.cpp.o
+
+sort/insertion.i: sort/insertion.cpp.i
+
+.PHONY : sort/insertion.i
+
+# target to preprocess a source file
+sort/insertion.cpp.i:
+	$(MAKE) -f CMakeFiles/AlgorithmPractises.dir/build.make CMakeFiles/AlgorithmPractises.dir/sort/insertion.cpp.i
+.PHONY : sort/insertion.cpp.i
+
+sort/insertion.s: sort/insertion.cpp.s
+
+.PHONY : sort/insertion.s
+
+# target to generate assembly for a file
+sort/insertion.cpp.s:
+	$(MAKE) -f CMakeFiles/AlgorithmPractises.dir/build.make CMakeFiles/AlgorithmPractises.dir/sort/insertion.cpp.s
+.PHONY : sort/insertion.cpp.s
+
+sort/merge.o: sort/merge.cpp.o
+
+.PHONY : sort/merge.o
+
+# target to build an object file
+sort/merge.cpp.o:
+	$(MAKE) -f CMakeFiles/AlgorithmPractises.dir/build.make CMakeFiles/AlgorithmPractises.dir/sort/merge.cpp.o
+.PHONY : sort/merge.cpp.o
+
+sort/merge.i: sort/merge.cpp.i
+
+.PHONY : sort/merge.i
+
+# target to preprocess a source file
+sort/merge.cpp.i:
+	$(MAKE) -f CMakeFiles/AlgorithmPractises.dir/build.make CMakeFiles/AlgorithmPractises.dir/sort/merge.cpp.i
+.PHONY : sort/merge.cpp.i
+
+sort/merge.s: sort/merge.cpp.s
+
+.PHONY : sort/merge.s
+
+# target to generate assembly for a file
+sort/merge.cpp.s:
+	$(MAKE) -f CMakeFiles/AlgorithmPractises.dir/build.make CMakeFiles/AlgorithmPractises.dir/sort/merge.cpp.s
+.PHONY : sort/merge.cpp.s
+
+sort/quick.o: sort/quick.cpp.o
+
+.PHONY : sort/quick.o
+
+# target to build an object file
+sort/quick.cpp.o:
+	$(MAKE) -f CMakeFiles/AlgorithmPractises.dir/build.make CMakeFiles/AlgorithmPractises.dir/sort/quick.cpp.o
+.PHONY : sort/quick.cpp.o
+
+sort/quick.i: sort/quick.cpp.i
+
+.PHONY : sort/quick.i
+
+# target to preprocess a source file
+sort/quick.cpp.i:
+	$(MAKE) -f CMakeFiles/AlgorithmPractises.dir/build.make CMakeFiles/AlgorithmPractises.dir/sort/quick.cpp.i
+.PHONY : sort/quick.cpp.i
+
+sort/quick.s: sort/quick.cpp.s
+
+.PHONY : sort/quick.s
+
+# target to generate assembly for a file
+sort/quick.cpp.s:
+	$(MAKE) -f CMakeFiles/AlgorithmPractises.dir/build.make CMakeFiles/AlgorithmPractises.dir/sort/quick.cpp.s
+.PHONY : sort/quick.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -294,6 +456,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... AlgorithmPractises"
 	@echo "... edit_cache"
+	@echo "... binarytree/BinarySearchTree.o"
+	@echo "... binarytree/BinarySearchTree.i"
+	@echo "... binarytree/BinarySearchTree.s"
+	@echo "... binarytree/BinaryTree.o"
+	@echo "... binarytree/BinaryTree.i"
+	@echo "... binarytree/BinaryTree.s"
+	@echo "... binarytree/TreeNode.o"
+	@echo "... binarytree/TreeNode.i"
+	@echo "... binarytree/TreeNode.s"
 	@echo "... dynamic_programming/LongestIncreasingSubsequence.o"
 	@echo "... dynamic_programming/LongestIncreasingSubsequence.i"
 	@echo "... dynamic_programming/LongestIncreasingSubsequence.s"
@@ -312,6 +483,15 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... sort/insertion.o"
+	@echo "... sort/insertion.i"
+	@echo "... sort/insertion.s"
+	@echo "... sort/merge.o"
+	@echo "... sort/merge.i"
+	@echo "... sort/merge.s"
+	@echo "... sort/quick.o"
+	@echo "... sort/quick.i"
+	@echo "... sort/quick.s"
 .PHONY : help
 
 

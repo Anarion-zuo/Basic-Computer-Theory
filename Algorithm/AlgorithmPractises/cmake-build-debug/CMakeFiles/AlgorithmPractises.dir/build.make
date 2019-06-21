@@ -135,6 +135,84 @@ CMakeFiles/AlgorithmPractises.dir/dynamic_programming/LongestIncreasingSubsequen
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AlgorithmPractises.dir/dynamic_programming/LongestIncreasingSubsequence.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/dynamic_programming/LongestIncreasingSubsequence.cpp -o CMakeFiles/AlgorithmPractises.dir/dynamic_programming/LongestIncreasingSubsequence.cpp.s
 
+CMakeFiles/AlgorithmPractises.dir/sort/insertion.cpp.o: CMakeFiles/AlgorithmPractises.dir/flags.make
+CMakeFiles/AlgorithmPractises.dir/sort/insertion.cpp.o: ../sort/insertion.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/AlgorithmPractises.dir/sort/insertion.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AlgorithmPractises.dir/sort/insertion.cpp.o -c /home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/sort/insertion.cpp
+
+CMakeFiles/AlgorithmPractises.dir/sort/insertion.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AlgorithmPractises.dir/sort/insertion.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/sort/insertion.cpp > CMakeFiles/AlgorithmPractises.dir/sort/insertion.cpp.i
+
+CMakeFiles/AlgorithmPractises.dir/sort/insertion.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AlgorithmPractises.dir/sort/insertion.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/sort/insertion.cpp -o CMakeFiles/AlgorithmPractises.dir/sort/insertion.cpp.s
+
+CMakeFiles/AlgorithmPractises.dir/sort/merge.cpp.o: CMakeFiles/AlgorithmPractises.dir/flags.make
+CMakeFiles/AlgorithmPractises.dir/sort/merge.cpp.o: ../sort/merge.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/AlgorithmPractises.dir/sort/merge.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AlgorithmPractises.dir/sort/merge.cpp.o -c /home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/sort/merge.cpp
+
+CMakeFiles/AlgorithmPractises.dir/sort/merge.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AlgorithmPractises.dir/sort/merge.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/sort/merge.cpp > CMakeFiles/AlgorithmPractises.dir/sort/merge.cpp.i
+
+CMakeFiles/AlgorithmPractises.dir/sort/merge.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AlgorithmPractises.dir/sort/merge.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/sort/merge.cpp -o CMakeFiles/AlgorithmPractises.dir/sort/merge.cpp.s
+
+CMakeFiles/AlgorithmPractises.dir/sort/quick.cpp.o: CMakeFiles/AlgorithmPractises.dir/flags.make
+CMakeFiles/AlgorithmPractises.dir/sort/quick.cpp.o: ../sort/quick.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/AlgorithmPractises.dir/sort/quick.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AlgorithmPractises.dir/sort/quick.cpp.o -c /home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/sort/quick.cpp
+
+CMakeFiles/AlgorithmPractises.dir/sort/quick.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AlgorithmPractises.dir/sort/quick.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/sort/quick.cpp > CMakeFiles/AlgorithmPractises.dir/sort/quick.cpp.i
+
+CMakeFiles/AlgorithmPractises.dir/sort/quick.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AlgorithmPractises.dir/sort/quick.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/sort/quick.cpp -o CMakeFiles/AlgorithmPractises.dir/sort/quick.cpp.s
+
+CMakeFiles/AlgorithmPractises.dir/binarytree/TreeNode.cpp.o: CMakeFiles/AlgorithmPractises.dir/flags.make
+CMakeFiles/AlgorithmPractises.dir/binarytree/TreeNode.cpp.o: ../binarytree/TreeNode.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/AlgorithmPractises.dir/binarytree/TreeNode.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AlgorithmPractises.dir/binarytree/TreeNode.cpp.o -c /home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/binarytree/TreeNode.cpp
+
+CMakeFiles/AlgorithmPractises.dir/binarytree/TreeNode.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AlgorithmPractises.dir/binarytree/TreeNode.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/binarytree/TreeNode.cpp > CMakeFiles/AlgorithmPractises.dir/binarytree/TreeNode.cpp.i
+
+CMakeFiles/AlgorithmPractises.dir/binarytree/TreeNode.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AlgorithmPractises.dir/binarytree/TreeNode.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/binarytree/TreeNode.cpp -o CMakeFiles/AlgorithmPractises.dir/binarytree/TreeNode.cpp.s
+
+CMakeFiles/AlgorithmPractises.dir/binarytree/BinaryTree.cpp.o: CMakeFiles/AlgorithmPractises.dir/flags.make
+CMakeFiles/AlgorithmPractises.dir/binarytree/BinaryTree.cpp.o: ../binarytree/BinaryTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/AlgorithmPractises.dir/binarytree/BinaryTree.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AlgorithmPractises.dir/binarytree/BinaryTree.cpp.o -c /home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/binarytree/BinaryTree.cpp
+
+CMakeFiles/AlgorithmPractises.dir/binarytree/BinaryTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AlgorithmPractises.dir/binarytree/BinaryTree.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/binarytree/BinaryTree.cpp > CMakeFiles/AlgorithmPractises.dir/binarytree/BinaryTree.cpp.i
+
+CMakeFiles/AlgorithmPractises.dir/binarytree/BinaryTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AlgorithmPractises.dir/binarytree/BinaryTree.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/binarytree/BinaryTree.cpp -o CMakeFiles/AlgorithmPractises.dir/binarytree/BinaryTree.cpp.s
+
+CMakeFiles/AlgorithmPractises.dir/binarytree/BinarySearchTree.cpp.o: CMakeFiles/AlgorithmPractises.dir/flags.make
+CMakeFiles/AlgorithmPractises.dir/binarytree/BinarySearchTree.cpp.o: ../binarytree/BinarySearchTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/AlgorithmPractises.dir/binarytree/BinarySearchTree.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AlgorithmPractises.dir/binarytree/BinarySearchTree.cpp.o -c /home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/binarytree/BinarySearchTree.cpp
+
+CMakeFiles/AlgorithmPractises.dir/binarytree/BinarySearchTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AlgorithmPractises.dir/binarytree/BinarySearchTree.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/binarytree/BinarySearchTree.cpp > CMakeFiles/AlgorithmPractises.dir/binarytree/BinarySearchTree.cpp.i
+
+CMakeFiles/AlgorithmPractises.dir/binarytree/BinarySearchTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AlgorithmPractises.dir/binarytree/BinarySearchTree.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/binarytree/BinarySearchTree.cpp -o CMakeFiles/AlgorithmPractises.dir/binarytree/BinarySearchTree.cpp.s
+
 # Object files for target AlgorithmPractises
 AlgorithmPractises_OBJECTS = \
 "CMakeFiles/AlgorithmPractises.dir/main.cpp.o" \
@@ -142,7 +220,13 @@ AlgorithmPractises_OBJECTS = \
 "CMakeFiles/AlgorithmPractises.dir/dynamic_programming/rod.cpp.o" \
 "CMakeFiles/AlgorithmPractises.dir/dynamic_programming/market.cpp.o" \
 "CMakeFiles/AlgorithmPractises.dir/dynamic_programming/min_max.cpp.o" \
-"CMakeFiles/AlgorithmPractises.dir/dynamic_programming/LongestIncreasingSubsequence.cpp.o"
+"CMakeFiles/AlgorithmPractises.dir/dynamic_programming/LongestIncreasingSubsequence.cpp.o" \
+"CMakeFiles/AlgorithmPractises.dir/sort/insertion.cpp.o" \
+"CMakeFiles/AlgorithmPractises.dir/sort/merge.cpp.o" \
+"CMakeFiles/AlgorithmPractises.dir/sort/quick.cpp.o" \
+"CMakeFiles/AlgorithmPractises.dir/binarytree/TreeNode.cpp.o" \
+"CMakeFiles/AlgorithmPractises.dir/binarytree/BinaryTree.cpp.o" \
+"CMakeFiles/AlgorithmPractises.dir/binarytree/BinarySearchTree.cpp.o"
 
 # External object files for target AlgorithmPractises
 AlgorithmPractises_EXTERNAL_OBJECTS =
@@ -153,9 +237,15 @@ AlgorithmPractises: CMakeFiles/AlgorithmPractises.dir/dynamic_programming/rod.cp
 AlgorithmPractises: CMakeFiles/AlgorithmPractises.dir/dynamic_programming/market.cpp.o
 AlgorithmPractises: CMakeFiles/AlgorithmPractises.dir/dynamic_programming/min_max.cpp.o
 AlgorithmPractises: CMakeFiles/AlgorithmPractises.dir/dynamic_programming/LongestIncreasingSubsequence.cpp.o
+AlgorithmPractises: CMakeFiles/AlgorithmPractises.dir/sort/insertion.cpp.o
+AlgorithmPractises: CMakeFiles/AlgorithmPractises.dir/sort/merge.cpp.o
+AlgorithmPractises: CMakeFiles/AlgorithmPractises.dir/sort/quick.cpp.o
+AlgorithmPractises: CMakeFiles/AlgorithmPractises.dir/binarytree/TreeNode.cpp.o
+AlgorithmPractises: CMakeFiles/AlgorithmPractises.dir/binarytree/BinaryTree.cpp.o
+AlgorithmPractises: CMakeFiles/AlgorithmPractises.dir/binarytree/BinarySearchTree.cpp.o
 AlgorithmPractises: CMakeFiles/AlgorithmPractises.dir/build.make
 AlgorithmPractises: CMakeFiles/AlgorithmPractises.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable AlgorithmPractises"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable AlgorithmPractises"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/AlgorithmPractises.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

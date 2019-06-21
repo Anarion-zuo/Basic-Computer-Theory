@@ -84,6 +84,24 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/binarytree/BinarySearchTree.cpp">
+			<Option target="AlgorithmPractises"/>
+		</Unit>
+		<Unit filename="/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/binarytree/BinarySearchTree.h">
+			<Option target="AlgorithmPractises"/>
+		</Unit>
+		<Unit filename="/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/binarytree/BinaryTree.cpp">
+			<Option target="AlgorithmPractises"/>
+		</Unit>
+		<Unit filename="/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/binarytree/BinaryTree.h">
+			<Option target="AlgorithmPractises"/>
+		</Unit>
+		<Unit filename="/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/binarytree/TreeNode.cpp">
+			<Option target="AlgorithmPractises"/>
+		</Unit>
+		<Unit filename="/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/binarytree/TreeNode.h">
+			<Option target="AlgorithmPractises"/>
+		</Unit>
 		<Unit filename="/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/dynamic_programming/LongestIncreasingSubsequence.cpp">
 			<Option target="AlgorithmPractises"/>
 		</Unit>
@@ -103,6 +121,18 @@
 			<Option target="AlgorithmPractises"/>
 		</Unit>
 		<Unit filename="/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/main.cpp">
+			<Option target="AlgorithmPractises"/>
+		</Unit>
+		<Unit filename="/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/sort/insertion.cpp">
+			<Option target="AlgorithmPractises"/>
+		</Unit>
+		<Unit filename="/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/sort/merge.cpp">
+			<Option target="AlgorithmPractises"/>
+		</Unit>
+		<Unit filename="/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/sort/quick.cpp">
+			<Option target="AlgorithmPractises"/>
+		</Unit>
+		<Unit filename="/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/sort/sort.h">
 			<Option target="AlgorithmPractises"/>
 		</Unit>
 		<Unit filename="/home/anarion/Documents/CSLearning/Basic-Computer-Theory/Algorithm/AlgorithmPractises/CMakeLists.txt">
